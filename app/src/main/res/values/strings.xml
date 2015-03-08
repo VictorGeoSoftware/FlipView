@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FlipView</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="depth_page_transformer">Depth page transformer</string>
+    <string name="zoom_out_page_transformer">Zoom out page transformer</string>
+
+</resources>
